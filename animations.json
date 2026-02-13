@@ -1,6 +1,18 @@
 [
   {
-    "name": "Idle2",
-    "url": "https://cdn.jsdelivr.net/gh/PIZZALORD713/animation_collection2@main/Idle2.glb"
+    "name": "Walk",
+    "url": "https://cdn.jsdelivr.net/gh/PIZZALORD713/animation_collection2@main/walk.glb"
+  },
+  {
+    "name": "Walk Arms Low",
+    "url": "https://cdn.jsdelivr.net/gh/PIZZALORD713/animation_collection2@main/walk-arms-low.glb"
+  },
+  {
+    "name": "Dance Rumba",
+    "url": "https://cdn.jsdelivr.net/gh/PIZZALORD713/animation_collection2@main/dance-rumba.glb"
+  },
+  {
+    "name": "Joy Jump",
+    "url": "https://cdn.jsdelivr.net/gh/PIZZALORD713/animation_collection2@main/joy-jump.glb"
   }
 ]
